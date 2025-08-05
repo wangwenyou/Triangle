@@ -1,6 +1,6 @@
 # Triangle
 
-![Triangle App Icon Placeholder](https://via.placeholder.com/64x64?text=Triangle)
+<img src="https://raw.githubusercontent.com/wangwenyou/Triangle/main/logo.png" style="width:64px"/> 
 
 A lightweight macOS utility that enables seamless mouse looping across multiple screens. When your mouse cursor reaches the edge of your outermost screen, it will instantly warp to the corresponding edge of the opposite outermost screen, creating an infinite desktop experience.
 
@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Triangle (中文)
 
-![Triangle App Icon Placeholder](https://via.placeholder.com/64x64?text=Triangle)
+<img src="https://raw.githubusercontent.com/wangwenyou/Triangle/main/logo.png" style="width:64px"/> 
 
 一个轻量级的 macOS 工具，旨在实现鼠标在多屏幕间的无缝循环移动。当您的鼠标光标到达最外侧屏幕的边缘时，它将立即传送到另一侧最外侧屏幕的对应边缘，从而创造一个无限循环的桌面体验。
 
