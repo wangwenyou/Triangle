@@ -1,0 +1,200 @@
+
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28B9C5A62C6A8A4D00A7D5A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B9C5A52C6A8A4D00A7D5A0 /* AppDelegate.swift */; };
+		28B9C5A82C6A8A4D00A7D5A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B9C5A72C6A8A4D00A7D5A0 /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		28B9C5A22C6A8A4D00A7D5A0 /* Triangle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Triangle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28B9C5A52C6A8A4D00A7D5A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		28B9C5A72C6A8A4D00A7D5A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		28B9C5AA2C6A8A4D00A7D5A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28B9C5AF2C6A8A4D00A7D5A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		28B9C5A02C6A8A4D00A7D5A0 = {
+			isa = PBXGroup;
+			children = (
+				28B9C5A42C6A8A4D00A7D5A0 /* Triangle */,
+				28B9C5A32C6A8A4D00A7D5A0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		28B9C5A32C6A8A4D00A7D5A0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				28B9C5A22C6A8A4D00A7D5A0 /* Triangle.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		28B9C5A42C6A8A4D00A7D5A0 /* Triangle */ = {
+			isa = PBXGroup;
+			children = (
+				28B9C5A52C6A8A4D00A7D5A0 /* AppDelegate.swift */,
+				28B9C5A72C6A8A4D00A7D5A0 /* main.swift */,
+				28B9C5AA2C6A8A4D00A7D5A0 /* Info.plist */,
+				28B9C5AF2C6A8A4D00A7D5A0 /* Assets.xcassets */,
+			);
+			path = Triangle;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		28B9C5A12C6A8A4D00A7D5A0 /* Triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 28B9C5AE2C6A8A4D00A7D5A0 /* Build configuration list for PBXNativeTarget "Triangle" */;
+			buildPhases = (
+				28B9C59E2C6A8A4D00A7D5A0 /* Sources */,
+				28B9C59F2C6A8A4D00A7D5A0 /* Frameworks */,
+				28B9C5A02C6A8A4D00A7D5A0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Triangle;
+			productName = Triangle;
+			productReference = 28B9C5A22C6A8A4D00A7D5A0 /* Triangle.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		28B9C59B2C6A8A4D00A7D5A0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = 28B9C59E2C6A8A4D00A7D5A0 /* Build configuration list for PBXProject "Triangle" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 28B9C5A02C6A8A4D00A7D5A0;
+			productRefGroup = 28B9C5A32C6A8A4D00A7D5A0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				28B9C5A12C6A8A4D00A7D5A0 /* Triangle */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		28B9C59E2C6A8A4D00A7D5A0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28B9C5A82C6A8A4D00A7D5A0 /* main.swift in Sources */,
+				28B9C5A62C6A8A4D00A7D5A0 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		28B9C5AD2C6A8A4D00A7D5A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDDEN_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				INFOPLIST_FILE = Triangle/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.Triangle;
+				PRODUCT_NAME = "$(PRODUCT_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		28B9C5AC2C6A8A4D00A7D5A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDDEN_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				INFOPLIST_FILE = Triangle/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.Triangle;
+				PRODUCT_NAME = "$(PRODUCT_NAME)";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		28B9C5AB2C6A8A4D00A7D5A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(PRODUCT_NAME)";
+			};
+			name = Debug;
+		};
+		28B9C5A92C6A8A4D00A7D5A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(PRODUCT_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		28B9C59E2C6A8A4D00A7D5A0 /* Build configuration list for PBXProject "Triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				28B9C5AB2C6A8A4D00A7D5A0 /* Debug */,
+				28B9C5A92C6A8A4D00A7D5A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		28B9C5AE2C6A8A4D00A7D5A0 /* Build configuration list for PBXNativeTarget "Triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				28B9C5AD2C6A8A4D00A7D5A0 /* Debug */,
+				28B9C5AC2C6A8A4D00A7D5A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 28B9C59B2C6A8A4D00A7D5A0 /* Project object */;
+}
