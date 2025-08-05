@@ -5,7 +5,7 @@
 A lightweight macOS utility that enables seamless mouse looping across multiple screens. When your mouse cursor reaches the edge of your outermost screen, it will instantly warp to the corresponding edge of the opposite outermost screen, creating an infinite desktop experience.
 
 Existing macOS tools like CatchMouse rely on keyboard shortcuts for screen jumping, which can interrupt workflow. Scripting solutions like Hammerspoon, while powerful, often suffer from environment and permission issues, making troubleshooting difficult. This lightweight tool aims to provide a seamless and hassle-free mouse cycling experience without these limitations.
-
+![Illustration.png](Illustration.png)
 ## Features
 
 *   **Multi-Screen Cycling**: Effortlessly move your mouse from the rightmost screen to the leftmost, and vice-versa.
@@ -51,6 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 一个轻量级的 macOS 工具，旨在实现鼠标在多屏幕间的无缝循环移动。当您的鼠标光标到达最外侧屏幕的边缘时，它将立即传送到另一侧最外侧屏幕的对应边缘，从而创造一个无限循环的桌面体验。
 
 Mac 上现有的工具，例如 CatchMouse，通常依赖快捷键来切换屏幕，这可能会打断工作流程。而像 Hammerspoon 这样的脚本解决方案，虽然功能强大，但常常受限于环境和权限问题，导致排查困难。为此开发了这款轻量级工具，旨在提供一种无缝且无忧的鼠标循环体验，避免上述限制。
+
+![Illustration.png](Illustration.png)
 
 ## 功能特性
 
