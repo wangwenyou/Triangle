@@ -17,7 +17,7 @@ Existing macOS tools like CatchMouse rely on keyboard shortcuts for screen jumpi
 
 Once the application is built (or a pre-built `.app` is provided):
 
-1.  Download the `Triangle.app` file.
+1.  Download the [Triangle.app]((https://github.com/wangwenyou/Triangle/releases/download/0.1.0/Triangle.app.zip)) file.
 2.  Drag `Triangle.app` into your `/Applications` folder.
 3.  Launch `Triangle.app`.
 4.  The first time you run it, you will be prompted to grant **Accessibility** permissions. Follow the on-screen instructions to navigate to `System Settings > Privacy & Security > Accessibility` and enable `Triangle`.
@@ -63,7 +63,7 @@ Mac 上现有的工具，例如 CatchMouse，通常依赖快捷键来切换屏�
 
 应用程序构建完成后（或提供预构建的 `.app` 文件后）：
 
-1.  下载 `Triangle.app` 文件。
+1.  下载 [Triangle.app](https://github.com/wangwenyou/Triangle/releases/download/0.1.0/Triangle.app.zip) 文件。
 2.  将 `Triangle.app` 拖放到您的 `/Applications` 文件夹中。
 3.  启动 `Triangle.app`。
 4.  首次运行时，系统会提示您授予**辅助功能**权限。请按照屏幕上的说明导航到 `系统设置 > 隐私与安全性 > 辅助功能` 并启用 `Triangle`。
